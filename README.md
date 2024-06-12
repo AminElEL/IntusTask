@@ -5,6 +5,7 @@ The project is done as one project with two sides.
 
 ## Installation
 
+composer install
 npm install
 
 Please run one of the open-source cross-platform web servers like XAMPP
